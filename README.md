@@ -54,3 +54,15 @@ Training and Validation errors are shown below
 <img src="metrics/val.JPG">
 
 
+### Conclusion
+
+DeepRecog accomplishes the combinational proposal of integrating deblurring and object detection into a single 
+application entity focused towards marine resource research and improving AUV vision. The proposed framework 
+is more robust and surpasses several existing research works both in terms of individual module comparisons as 
+well as complete framework analytics.The deblurration system provided a water specific methology for removal 
+of haze and noise while preserving the visual integrity of the original image. The novel object detection module 
+for underwater items was 6.42% more precise than YOLOv3, 8.43% more than FasterRCNN+VGG16 and 15.78% 
+more than FasterRCNN. DeepRecog aims to bridge the gap between high resolution object detection and 
+underwater vision. Future scope of research may be directed towards improving the object detection to suit niche 
+requirements highly specific to marine exploration, which involves adding more classes of marine species, corals 
+and other endangered ocean resources.
