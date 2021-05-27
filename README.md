@@ -54,7 +54,7 @@ Training and Validation errors are shown below
 <img src="metrics/val.JPG">
 
 
-### Conclusion
+## Conclusion
 
 DeepRecog accomplishes the combinational proposal of integrating deblurring and object detection into a single 
 application entity focused towards marine resource research and improving AUV vision. The proposed framework 
