@@ -10,7 +10,7 @@ marine life and other frequently existent underwater assets from AUV images
 ## Prerequisites
 
 - [MATLAB](https://www.mathworks.com/downloads/)
-- [Tensorflow 1.3](https://github.com/tensorflow/tensorflow)
+- [Tensorflow](https://github.com/tensorflow/tensorflow)
 - [Keras 2.0](https://github.com/fchollet/keras)
 - [OpenCV-Python](https://github.com/opencv/opencv)
 - [LabelImg](https://github.com/tzutalin/labelImg)
