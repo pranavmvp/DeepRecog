@@ -16,4 +16,4 @@ structural mdels into the same module. The final prediction region is obtained f
 them as coefficient weighted ensembles trained independently.
 
 Framework :
-<img src="images/info/framework.jpg">
+<img src="images/info/framework.JPG">
