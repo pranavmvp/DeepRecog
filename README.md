@@ -15,10 +15,5 @@ a hybrid FasterRCNN+InceptionResNet V2). The weighted ensemble structure allows 
 structural mdels into the same module. The final prediction region is obtained from the models as by structuring 
 them as coefficient weighted ensembles trained independently.
 
-<img src="images/info/yolo_model.jpeg">
-
-YOLO v5 Architecture 
-
-<img src="images/info/resnet_model.jpeg">
-
-ResNet v2 Architecture
+Framework :
+<img src="images/info/framework.jpg">
