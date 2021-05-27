@@ -12,11 +12,11 @@ marine life and other frequently existent underwater assets from AUV images
 - [MATLAB](https://www.mathworks.com/downloads/)
 - [Tensorflow 1.3](https://github.com/tensorflow/tensorflow)
 - [Keras 2.0](https://github.com/fchollet/keras)
-- [OpenCV-Python] (https://github.com/opencv/opencv)
-- [LabelImg] (https://github.com/tzutalin/labelImg)
+- [OpenCV-Python](https://github.com/opencv/opencv)
+- [LabelImg](https://github.com/tzutalin/labelImg)
 
 YOLO v5 Repository - 
-- [YOLOv5] (https://github.com/ultralytics/yolov5)
+- [YOLOv5](https://github.com/ultralytics/yolov5)
 
 ## Model Architecture
 
@@ -47,6 +47,8 @@ mAP score is calculated by computing the mean AP over all IoU thresholds, depend
 specific parameters of the model. A total of 1000 images [per class] were trained on the model for 50 epochs. 
 Figure shows the metrics which threw a mAP accuracy score of 0.95, precision of 0.88 and recall of 0.93.
 
+
+Training and Validation errors are shown below
 
 <img src="metrics/train.JPG">
 <img src="metrics/val.JPG">
